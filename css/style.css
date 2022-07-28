@@ -1,0 +1,14 @@
+.trip_select {
+	padding: 14px 18px;
+	border: none;
+}
+
+#dropoff_date_time {
+	font-size: 16px;
+    display: block;
+    margin: 0 auto;
+    background: #fff;
+    color: #2E3141;
+    padding: 14px 18px;
+    border: 1px solid #F6F6F6;
+}
